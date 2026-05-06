@@ -52,5 +52,14 @@
           <enclosure url="https://github.com/whomwah/oi-releases/releases/download/v1.8.0/Oi-1.8.0.dmg" type="application/octet-stream" sparkle:edSignature="uf/By5pU8UqvAT8TeqXH4AjR6eVFRhVg78e2g0i6svQgVBFvSxk1ecsrj5G4Q5IlP8ADWI4lkO8eWlkTcFhBDA==" length="2665059" />
       </item>
 
+          <item>
+          <title>Version 1.9.0</title>
+          <sparkle:releaseNotesLink>https://whomwah.github.io/oi-releases/notes/v1.9.0.html</sparkle:releaseNotesLink>
+          <pubDate>Wed, 06 May 2026 10:47:18 +0000</pubDate>
+          <sparkle:version>11</sparkle:version>
+          <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+          <enclosure url="https://github.com/whomwah/oi-releases/releases/download/v1.9.0/Oi-1.9.0.dmg" type="application/octet-stream" sparkle:edSignature="UKgobhjNsV0iJu0RuIex7bZHj2SsH+Rk5l35DsJg9/J/6Z9z/5Xo+ujOQwO1N5TP43reGOFdeGIfND9k6FlNAQ==" length="2664380" />
+      </item>
+
     </channel>
 </rss>

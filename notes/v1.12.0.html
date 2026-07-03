@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+      font-size: 13px;
+      line-height: 1.5;
+      color: #333;
+      padding: 8px 16px;
+      margin: 0;
+    }
+    @media (prefers-color-scheme: dark) {
+      body { color: #ddd; }
+    }
+    h3 {
+      font-size: 14px;
+      font-weight: 600;
+      margin: 12px 0 4px;
+    }
+    ul {
+      margin: 4px 0 12px;
+      padding-left: 20px;
+    }
+    li {
+      margin: 2px 0;
+    }
+  </style>
+</head>
+<body>
+<h3>Added</h3>
+<ul>
+<li>Per-calendar auto-arm: toggle a calendar to arm all its alerts automatically</li>
+<li>Per-item suppression and Offset overrides on auto-armed items</li>
+<li>Labeled auto-arm switch in sources preferences</li>
+</ul>
+<h3>Changed</h3>
+<ul>
+<li>Renamed turbo-charge to arm/auto-arm</li>
+<li>Cap backup notifications at nearest-64 by trigger time</li>
+<li>Disarm and prune orphaned overrides when auto-arm is disabled</li>
+</ul>
+<h3>Fixed</h3>
+<ul>
+<li>Removed non-functional Escape-to-dismiss from overlay</li>
+</ul>
+</body>
+</html>

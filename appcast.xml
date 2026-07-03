@@ -79,5 +79,14 @@
           <enclosure url="https://github.com/whomwah/oi-releases/releases/download/v1.11.0/Oi-1.11.0.dmg" type="application/octet-stream" sparkle:edSignature="Qq5B3wKx8M52jk+9CnNj1BupxyWCugjBben6IL3URTnpUsO87repyalt0YjBUODTM4Yi/zkWQj5WMKU0GrE8AA==" length="2677056" />
       </item>
 
+          <item>
+          <title>Version 1.12.0</title>
+          <sparkle:releaseNotesLink>https://whomwah.github.io/oi-releases/notes/v1.12.0.html</sparkle:releaseNotesLink>
+          <pubDate>Fri, 03 Jul 2026 10:56:56 +0000</pubDate>
+          <sparkle:version>15</sparkle:version>
+          <sparkle:shortVersionString>1.12.0</sparkle:shortVersionString>
+          <enclosure url="https://github.com/whomwah/oi-releases/releases/download/v1.12.0/Oi-1.12.0.dmg" type="application/octet-stream" sparkle:edSignature="LKflji9CoMYOyonNm+E/GMqGkPDmrH2s7JB/zntfjlBbCLiKb7xRb34YDluBix7TP+jnn/vMjh45myhPHYXiAA==" length="2712241" />
+      </item>
+
     </channel>
 </rss>
